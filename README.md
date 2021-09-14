@@ -1,2 +1,4 @@
 # hello-world
-first project
+
+Heya bots and non-bots
+first project and rolling!
